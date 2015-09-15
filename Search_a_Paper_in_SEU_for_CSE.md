@@ -4,9 +4,9 @@
 
 **符号备注：**
 
-1. *: 博士需要，硕士不需要
-2. TIPS: 小技巧
-3. WARNING: 注意地雷
+1. *****: 博士需要，硕士不需要
+2. **TIPS**: 小技巧
+3. **WARNING**: 注意事项，小心中招
 
 ## 1. 学术搜索工具
 
@@ -24,7 +24,7 @@
 
 [DBLP](http://dblp.uni-trier.de/)
 
-对会议检索很快，会将作者的相关工作整理归类。
+对会议检索很快，会将作者的相关工作整理归类。也会将会议的论文整理。
 
 [微软学术](http://academic.research.microsoft.com) 
 
@@ -32,13 +32,13 @@
 
 ### 1.2 专业型（版本有保障，会议扫墙专用）
 
-两大计算机协会：
+两大计算机协会，外加Web of Science：
 
 [ACM](http://dl.acm.org) 
 
 [IEEE](http://ieeexplore.ieee.org)
 
-[Web of Science](http://webofknowledge.com/WOS) 搜索SCI必备！论文被引用跟踪。
+[Web of Science](http://webofknowledge.com/WOS)
 
 **WARNING：各大网站导出的参考文件格式不同(特别是IEEE和ACM)！记得在论文中统一**
 
@@ -78,7 +78,7 @@ TIPS：实在不行，厚着脸皮问作者要论文（客气一点，作者还�
    
 2. [CCF列表](http://www.ccf.org.cn/sites/ccf/paiming.jsp)（顶级会议和SCI期刊）
    
-3. 实验室认可的学报：
+3. 学院认可的学报：
    
    	[计算机学报](http://cjc.ict.ac.cn/)
    
@@ -97,8 +97,6 @@ TIPS：实在不行，厚着脸皮问作者要论文（客气一点，作者还�
 ## 3. 拓展知识面（找到更多论文）
 
 搜一篇明确的论文需要不到一秒；但是通过搜索扩充自己对领域的认识，需要慢慢积累！对于一个新的领域，你至少需要了解：**关键词、关键技术、领域划分、重要的论文列表以及重量级大牛。**随后，再选择自己感兴趣的方向，进一步细分和研究。
-
-
 
 了解一个领域的方式一般有以下几种：
 
