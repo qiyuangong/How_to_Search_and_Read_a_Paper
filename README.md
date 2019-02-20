@@ -1,17 +1,17 @@
 如何搜索和阅读一篇论文 (How to Search&Read a Paper)
 =============================
 ## Motivation
-看着一帮一帮的硕士师弟入学，开题，答辩和毕业。感觉到自己渐渐向老古董靠拢(老古董现已博士毕业)。一次偶然的机会，**发现一部分师弟到写毕业论文时都不会查论文，对于学校的电子资源更是知之甚少**。顿时感到无比心疼，送上搜索文献一文，希望对你们少走弯路，早日“入门”(高年级博士请直接跳到第4章)。
+看着一帮一帮的硕士师弟入学，开题，答辩和毕业。感觉到自己渐渐向老古董靠拢(老古董现已博士毕业)。一次偶然的机会，**发现一部分师弟到写毕业论文时都不会查论文，对于学校的电子资源更是知之甚少**。顿时感到无比心疼，送上搜索文献一文，希望对你们少走弯路，早日“入门”。
 
-本文档适合于**刚入学的硕士和博士(计算机专业最好，其他专业可参考)**。文中有很多非严谨的语句，希望各位海涵。文中的不少例子以东南大学位为例，请自动换成自己学校的链接或者内容。
+本文档适合于**刚入学的硕士和博士(计算机专业最好，其他专业可参考)**。(高年级博士请直接跳到第4-5章)。文中有很多非严谨的语句，希望各位海涵。文中的不少例子以东南大学位为例，请自动换成自己学校的链接或者内容。
 
-## 学术搜索
+## 学术搜索和论文阅读
 
-本篇文章总结了学术搜索以及学术论文阅读的基本方法。
+本篇文章总结了学术搜索和论文阅读的一些基本方法。
 
 **符号备注:**
 
-1. *: 博士需要，硕士不需要
+1. *: 进阶技能
 2. **TIPS**: 小技巧
 3. **WARNING**: 注意事项，小心中招
 
@@ -39,7 +39,7 @@
 
 两大计算机协会，外加Springer和Web of Science:
 
-[ACM](http://dl.acm.org) 
+[ACM](https://dl.acm.org) 
 
 [IEEE](http://ieeexplore.ieee.org)
 
@@ -51,21 +51,23 @@
 
 ### 1.3 中文论文检索（检索学位论文专用）
 
-两大中文检索数据库:
+三大中文检索数据库:
 
 [万方](http://g.wanfangdata.com.cn/)
 
 [维普](http://qikan.cqvip.com/)
 
+[知网](https://www.cnki.net/)
+
 ### 1.4 无法找到论文，或者无法下载（请Google）
 
 如果前面几种方法搜索到了论文，但是无法下载（论文库问题，后者还未正式发表）。那么Google就是最好的方法。直接Google这篇论文，有些大牛会把论文挂在自己主页上。而且，现在Google支持论文内部检索（直接定位到论文中的段落）。需要注意的是: Google到的论文版本可能不是最终发布版本，部分细节可能会改变。
 
-**TIPS**: 实在不行，厚着脸皮问作者要论文（客气一点，作者还是会答应的）。我曾经问一些作者请教过问题，甚至请求过论文的代码，大部分作者都答应了，而且回复的非常认真。
+**TIPS**: 实在不行，厚着脸皮问作者要论文（客气一点，作者还是会答应的）。我曾经问一些作者请教过论文相关的问题 (甚至请求过论文的源代码)，大部分作者都回复了我，而且不少人回复的非常认真。
 
 ## 2. 鉴别论文好坏
 
-论文很多，很杂。**一篇优秀的论文需要很多心血和时间去不断的修改和凝练，而一篇垃圾论文可能只需要复制和粘贴**。两个级别的论文差距很大，当然也会给我们带来不同的影响。**从我的经验来看，阅读论文时要以优秀论文为主，避免被垃圾论文误导**。所以，最好在检索时候就鉴别论文质量。
+论文很多，很杂。**一篇优秀的论文需要很多心血和时间去不断的修改和凝练，而一篇垃圾论文可能只需要复制和粘贴**。两个级别的论文差距很大，当然也会给我们带来不同的影响。**从我的经验来看，阅读论文时要以优秀论文为主，避免被垃圾论文误导**。所以，最好在检索时候就鉴别论文质量。另一方面，即使是顶级论文，也还是太多了，如果不通过筛选缩小范围，读论文的速度绝对赶不上论文出来的速度。
 
 ### 2.1 检索工具排序
 
@@ -130,7 +132,7 @@
 4. 可以尝试和作者交流，**一次好的交流可以获得很多最新的关键词**
 5. 分析最近的热门论文，更新和扩充关键词
 
-例如: 最开始我只知道数据匿名和数据隐私，通过搜索和阅读文献，我发现数据匿名和数据隐私可以等同于data privacy, data anonymization, privacy preserving data publishing(PPDP)等；而数据的匿名操作在不同论文中的说法也不一致，有用anonymize, coarse, distort, clean, sanitize等等。那么这些关键词就可以扩充到我的关键词库中，方便我鉴别某篇论文是否属于我的研究领域。后期发现，其实用coarse, clean的人很少，只是在论文中避免重复使用anonymize时才会出现，所以可以弱化这两个关键词。
+例如: 最开始我只知道数据匿名和数据隐私，通过搜索和阅读文献，我发现数据匿名和数据隐私类的论文一般有以下关键词data privacy, data anonymization, privacy preserving data publishing等；同时，数据的匿名操作在不同论文中的说法也不一致，有用anonymize, coarse, distort, clean, sanitize等等。那么这些关键词就可以扩充到我的关键词库中，方便我鉴别某篇论文是否属于我的研究领域。后期发现，其实用coarse, clean的人很少，只是在论文中避免重复使用anonymize时才会出现，所以可以弱化这两个关键词。
 
 **WARNING:** 上面所述的关键词特指英文关键词，中文关键词由于翻译和语境问题，更加多样化，统一性太差。
 
@@ -148,7 +150,7 @@
 
 **TIPS:** 相关工作（related work）一般会提供很好的文献分类，参考这个章节可以帮助我们划分手头的论文。
 
-### 3.3 大牛效应
+### *3.3 大牛效应
 
 发现某些人在领域论文中出镜率很高？恭喜你，开始邂逅大牛了。大牛一般很牛X，理解得深入，实验做得好，论文写得好，不喜欢拿公式和理论恶心人。这样的前辈，对我们的研究会有很大帮助。
 
@@ -163,11 +165,7 @@
 
 1. 找到一篇或者多篇好文章
 2. 挨个查作者最近的论文，论文都很好，那么就收藏（论文+大牛）
-
-被动发现:
-
-1. 从已有的论文列表中获取大牛候补名单
-2. 去这些大牛主页看看他的论文发表情况(可以了解他的研究进展状况和领域趋势)
+3. 可以尝试订阅一些大牛的论文动态(可以了解他的研究进展状况和领域趋势)
 
 **WARNING:** **跟着大牛的论文列表去入门肯定不会错。但是，小心别被大牛带坑里去（大牛一般都有团队，而我们往往只有一个人。特别是大牛说“这个很简单！”时）。**
 
@@ -285,12 +283,17 @@ WikiCFP可以查看详细的timeline，非常直观；但是每次会议过期�
 
 *Reference:
 
+1. [How to Read a Paper](https://web.stanford.edu/class/ee384m/Handouts/HowtoReadPaper.pdf)
+2. [How to read a research paper](https://www.eecs.harvard.edu/~michaelm/postscripts/ReadPaper.pdf)
+3. [6 Tips to Finding Research Paper Sources that Set You Apart](https://www.studyright.net/blog/research-paper-sources/)
+4. [How to Read A Scientific Paper](https://be.mit.edu/sites/default/files/documents/HowToReadAScientificPaper.pdf)
+5. [Effective Reading and Note-Taking](http://uaap.mit.edu/tutoring-support/study-tips/tooling-and-studying/tooling-and-studying-effective-reading-and-note-taking)
+
+研究相关的书籍推荐:
+
 1. 《有了博士学位还不够》
 2. 《研究是一门艺术》
 3. 《像外行一样思考，像专家一样实践》
-4. [How to Read a Paper](https://web.stanford.edu/class/ee384m/Handouts/HowtoReadPaper.pdf)
-5. [How to read a research paper](https://www.eecs.harvard.edu/~michaelm/postscripts/ReadPaper.pdf)
-6. [6 Tips to Finding Research Paper Sources that Set You Apart](https://www.studyright.net/blog/research-paper-sources/)
 
 
 版本更新:
@@ -302,4 +305,4 @@ WikiCFP可以查看详细的timeline，非常直观；但是每次会议过期�
 5. 2014-5-6 根据凌振的建议，强化关键词小节
 6. 2015-9-3 根据张骏雪的建议，增加DBLP
 7. 2015-9-17 增加如何阅读论文
-8. 2019-2-20 修复链接，增加参考文献和书籍
+8. 2019-2-20 修复链接，增加参考文献和书籍，修正格式
