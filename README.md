@@ -213,6 +213,20 @@
 
 **WARNING**:讨论是非常必要的（最好由阅读论文的人主讲），当其他人从他的角度提出疑问时，很可能会给意想不到的惊喜。
 
+### 4.4 笔记和知识库管理
+
+论文读多了，就会陷入笔记和知识库管理的困境。常见问题：
+
+* 读完就忘，论文重点和感想不好记录和管理
+* 没办法联系起来（论文和论文，论文和作者）
+* 很难检索
+* 无法分享（多人协作或者导师评价）
+
+显然，这个问题有很多解决办法。从简单的实体笔记本（笨重但好用），到PDF批注，再到[MarginNote](https://www.marginnote.com/)，Notability和[Notion](https://www.notion.so/)之类的笔记和知识管理。建议挨个尝试下，然后选择符合自己习惯的方式。
+
+我个人比较推荐的是PDF批注+Notion。PDF批注就是用PDF工具直接把高亮和笔记添加到PDF中，方便后面查阅。这样关键的知识点和感想就不会丢。还可以PDF放到云存储，方便备份、同步和查阅。Notion就比较复杂了，建议看一下Notion的视频和资料。我个人比较常用的是Notion的内部链接和mermaid画图。内部链接可以快速建立论文之间的链接，方便快速跳转，而mermaid可以绘制思维导图，理清论文的关键步骤。
+
+
 ## *5. 论文提醒和会议追踪(让论文来找你)
 
 ### *5.1 论文提醒
@@ -281,7 +295,7 @@ WikiCFP可以查看详细的timeline，非常直观；但是每次会议过期�
 
 随手写了这么多，希望对各位师弟师妹的有帮助。**希望你们站在我们肩膀上，比我们做得更好。**
 
-龚奇源 <gongqiyuan@seu.edu.cn>
+龚奇源
 
 *Reference:
 
@@ -289,7 +303,7 @@ WikiCFP可以查看详细的timeline，非常直观；但是每次会议过期�
 2. [How to read a research paper](https://www.eecs.harvard.edu/~michaelm/postscripts/ReadPaper.pdf)
 3. [6 Tips to Finding Research Paper Sources that Set You Apart](https://www.studyright.net/blog/research-paper-sources/)
 4. [How to Read A Scientific Paper](https://be.mit.edu/sites/default/files/documents/HowToReadAScientificPaper.pdf)
-5. [Effective Reading and Note-Taking](http://uaap.mit.edu/tutoring-support/study-tips/tooling-and-studying/tooling-and-studying-effective-reading-and-note-taking)
+5. [Effective Note-taking in Lectures](https://www.cc-seas.columbia.edu/node/31875)
 
 研究相关的书籍推荐:
 
